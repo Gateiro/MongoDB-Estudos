@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "nome": "Abacaxi Silva",
+    "contatos": {
+      "telefone": "(11) 90000-0001",
+      "email": "abacaxi.silva@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 2,
+    "nome": "Banana Souza",
+    "contatos": {
+      "telefone": "(11) 90000-0002",
+      "email": "banana.souza@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 3,
+    "nome": "Caju Oliveira",
+    "contatos": {
+      "telefone": "(11) 90000-0003",
+      "email": "caju.oliveira@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 4,
+    "nome": "Damasco Lima",
+    "contatos": {
+      "telefone": "(11) 90000-0004",
+      "email": "damasco.lima@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 5,
+    "nome": "Embaúba Costa",
+    "contatos": {
+      "telefone": "(11) 90000-0005",
+      "email": "embauba.costa@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 6,
+    "nome": "Figo Martins",
+    "contatos": {
+      "telefone": "(11) 90000-0006",
+      "email": "figo.martins@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 7,
+    "nome": "Goiaba Rocha",
+    "contatos": {
+      "telefone": "(11) 90000-0007",
+      "email": "goiaba.rocha@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 8,
+    "nome": "Hibisco Dias",
+    "contatos": {
+      "telefone": "(11) 90000-0008",
+      "email": "hibisco.dias@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 9,
+    "nome": "Ingá Fernandes",
+    "contatos": {
+      "telefone": "(11) 90000-0009",
+      "email": "inga.fernandes@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 10,
+    "nome": "Jabuticaba Almeida",
+    "contatos": {
+      "telefone": "(11) 90000-0010",
+      "email": "jabuticaba.almeida@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 11,
+    "nome": "Kiwi Ribeiro",
+    "contatos": {
+      "telefone": "(11) 90000-0011",
+      "email": "kiwi.ribeiro@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 12,
+    "nome": "Laranja Cardoso",
+    "contatos": {
+      "telefone": "(11) 90000-0012",
+      "email": "laranja.cardoso@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 13,
+    "nome": "Manga Teixeira",
+    "contatos": {
+      "telefone": "(11) 90000-0013",
+      "email": "manga.teixeira@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 14,
+    "nome": "Nectarina Pinto",
+    "contatos": {
+      "telefone": "(11) 90000-0014",
+      "email": "nectarina.pinto@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 15,
+    "nome": "Oliva Castro",
+    "contatos": {
+      "telefone": "(11) 90000-0015",
+      "email": "oliva.castro@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 16,
+    "nome": "Pera Azevedo",
+    "contatos": {
+      "telefone": "(11) 90000-0016",
+      "email": "pera.azevedo@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 17,
+    "nome": "Quina Barros",
+    "contatos": {
+      "telefone": "(11) 90000-0017",
+      "email": "quina.barros@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 18,
+    "nome": "Romã Freitas",
+    "contatos": {
+      "telefone": "(11) 90000-0018",
+      "email": "roma.freitas@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 19,
+    "nome": "Sapoti Mendes",
+    "contatos": {
+      "telefone": "(11) 90000-0019",
+      "email": "sapoti.mendes@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 20,
+    "nome": "Tamarindo Lopes",
+    "contatos": {
+      "telefone": "(11) 90000-0020",
+      "email": "tamarindo.lopes@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 21,
+    "nome": "Uva Nunes",
+    "contatos": {
+      "telefone": "(11) 90000-0021",
+      "email": "uva.nunes@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 22,
+    "nome": "Vagem Pires",
+    "contatos": {
+      "telefone": "(11) 90000-0022",
+      "email": "vagem.pires@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 23,
+    "nome": "Wampee Tavares",
+    "contatos": {
+      "telefone": "(11) 90000-0023",
+      "email": "wampee.tavares@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 24,
+    "nome": "Xixá Farias",
+    "contatos": {
+      "telefone": "(11) 90000-0024",
+      "email": "xixa.farias@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 25,
+    "nome": "Yamamoto Peixoto",
+    "contatos": {
+      "telefone": "(11) 90000-0025",
+      "email": "yamamoto.peixoto@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 26,
+    "nome": "Zimbro Braga",
+    "contatos": {
+      "telefone": "(11) 90000-0026",
+      "email": "zimbro.braga@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 27,
+    "nome": "Açaí Cunha",
+    "contatos": {
+      "telefone": "(11) 90000-0027",
+      "email": "acai.cunha@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 28,
+    "nome": "Bacaba Rezende",
+    "contatos": {
+      "telefone": "(11) 90000-0028",
+      "email": "bacaba.rezende@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 29,
+    "nome": "Cabeludinha Duarte",
+    "contatos": {
+      "telefone": "(11) 90000-0029",
+      "email": "cabeludinha.duarte@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 30,
+    "nome": "Dendê Moreira",
+    "contatos": {
+      "telefone": "(11) 90000-0030",
+      "email": "dende.moreira@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 31,
+    "nome": "Eugenia Guedes",
+    "contatos": {
+      "telefone": "(11) 90000-0031",
+      "email": "eugenia.guedes@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 32,
+    "nome": "Feijoa Macedo",
+    "contatos": {
+      "telefone": "(11) 90000-0032",
+      "email": "feijoa.macedo@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 33,
+    "nome": "Graviola Silveira",
+    "contatos": {
+      "telefone": "(11) 90000-0033",
+      "email": "graviola.silveira@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 34,
+    "nome": "Hibisco Amaral",
+    "contatos": {
+      "telefone": "(11) 90000-0034",
+      "email": "hibisco.amaral@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 35,
+    "nome": "Imbuia Sales",
+    "contatos": {
+      "telefone": "(11) 90000-0035",
+      "email": "imbuia.sales@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 36,
+    "nome": "Jatobá Siqueira",
+    "contatos": {
+      "telefone": "(11) 90000-0036",
+      "email": "jatoba.siqueira@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 37,
+    "nome": "Kinkan Figueiredo",
+    "contatos": {
+      "telefone": "(11) 90000-0037",
+      "email": "kinkan.figueiredo@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 38,
+    "nome": "Lichia Prado",
+    "contatos": {
+      "telefone": "(11) 90000-0038",
+      "email": "lichia.prado@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 39,
+    "nome": "Mamão Bastos",
+    "contatos": {
+      "telefone": "(11) 90000-0039",
+      "email": "mamao.bastos@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 40,
+    "nome": "Nêspera Assis",
+    "contatos": {
+      "telefone": "(11) 90000-0040",
+      "email": "nespera.assis@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 41,
+    "nome": "Oiti Barreto",
+    "contatos": {
+      "telefone": "(11) 90000-0041",
+      "email": "oiti.barreto@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 42,
+    "nome": "Pitangueira Melo",
+    "contatos": {
+      "telefone": "(11) 90000-0042",
+      "email": "pitangueira.melo@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 43,
+    "nome": "Quixaba Gama",
+    "contatos": {
+      "telefone": "(11) 90000-0043",
+      "email": "quixaba.gama@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 44,
+    "nome": "Rambutan Braga",
+    "contatos": {
+      "telefone": "(11) 90000-0044",
+      "email": "rambutan.braga@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 45,
+    "nome": "Seriguela Dantas",
+    "contatos": {
+      "telefone": "(11) 90000-0045",
+      "email": "seriguela.dantas@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 46,
+    "nome": "Tucumã Brito",
+    "contatos": {
+      "telefone": "(11) 90000-0046",
+      "email": "tucuma.brito@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 47,
+    "nome": "Umbu Barreto",
+    "contatos": {
+      "telefone": "(11) 90000-0047",
+      "email": "umbu.barreto@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  },
+  {
+    "id": 48,
+    "nome": "Veludo Campos",
+    "contatos": {
+      "telefone": "(11) 90000-0048",
+      "email": "veludo.campos@frutas.com"
+    },
+    "nivel_acesso": "admin"
+  },
+  {
+    "id": 49,
+    "nome": "Wampi Cunha",
+    "contatos": {
+      "telefone": "(11) 90000-0049",
+      "email": "wampi.cunha@frutas.com"
+    },
+    "nivel_acesso": "user"
+  },
+  {
+    "id": 50,
+    "nome": "Xixá Figueira",
+    "contatos": {
+      "telefone": "(11) 90000-0050",
+      "email": "xixa.figueira@frutas.com"
+    },
+    "nivel_acesso": "externo"
+  }
+]

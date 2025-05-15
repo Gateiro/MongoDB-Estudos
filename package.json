@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-estudos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gateiro/MongoDB-Estudos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gateiro/MongoDB-Estudos/issues"
+  },
+  "homepage": "https://github.com/Gateiro/MongoDB-Estudos#readme",
+  "dependencies": {
+    "mongodb": "^6.16.0"
+  }
+}
